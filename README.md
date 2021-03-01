@@ -10,3 +10,5 @@ Personal Website
 * **DeepAI** - [fatihuysal](https://deepai.org/profile/fatihuysal)
 * **Google Scholar** - [CM-suAIAAAAJ](https://scholar.google.com.tr/citations?user=CM-suAIAAAAJ)
 * **Papers With Code** - [fatih-uysal](https://paperswithcode.com/author/fatih-uysal)
+* **IEEE Collabratec** - [fatih-uysal](https://ieee-collabratec.ieee.org/app/p/FatihUYSAL741555)
+* **Web of Science ResearcherID** - [AAA-6170-2021](https://publons.com/researcher/AAA-6170-2021)

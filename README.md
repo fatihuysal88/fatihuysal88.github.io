@@ -14,4 +14,5 @@ Personal Website
 * **Papers With Code** - [fatih-uysal](https://paperswithcode.com/author/fatih-uysal)
 * **IEEE Collabratec** - [fatih-uysal](https://ieee-collabratec.ieee.org/app/p/FatihUYSAL741555)
 * **Web of Science ResearcherID** - [AAA-6170-2021](https://publons.com/researcher/AAA-6170-2021)
+* **SciProfiles** - [1405557](https://sciprofiles.com/profile/1405557)
 * **Kaggle** - [fatihuysal](https://www.kaggle.com/fatihuysal)

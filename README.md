@@ -18,6 +18,6 @@ Personal Website
 * **Kaggle** - [fatihuysal](https://www.kaggle.com/fatihuysal)
 * **Instagram** - [88fatihuysal](https://instagram.com/88fatihuysal)
 * **Facebook** - [88fatihuysal](https://www.facebook.com/88fatihuysal/)
-# Publications 
+# Publications
 Publications in SCI Indexed Journals
 * [Published: 18 March 2021, Classification of Shoulder X-ray Images with Deep Learning Ensemble Models](https://www.mdpi.com/2076-3417/11/6/2723)

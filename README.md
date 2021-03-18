@@ -16,3 +16,5 @@ Personal Website
 * **Web of Science ResearcherID** - [AAA-6170-2021](https://publons.com/researcher/AAA-6170-2021)
 * **SciProfiles** - [1405557](https://sciprofiles.com/profile/1405557)
 * **Kaggle** - [fatihuysal](https://www.kaggle.com/fatihuysal)
+* **Instagram** - [88fatihuysal](https://instagram.com/88fatihuysal)
+* **Facebook** - [88fatihuysal](https://www.facebook.com/88fatihuysal/)

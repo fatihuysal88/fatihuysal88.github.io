@@ -22,3 +22,4 @@ Publications in SCI Indexed Journals
 * **Kaggle** - [fatihuysal](https://www.kaggle.com/fatihuysal)
 * **Instagram** - [88fatihuysal](https://instagram.com/88fatihuysal)
 * **Facebook** - [88fatihuysal](https://www.facebook.com/88fatihuysal/)
+* **Spotify** - [fatihuysal](https://open.spotify.com/user/vxk0mmiuxkkcihqwsfjao42hr?si=4wuT1HvlRK2VK2ZBud3TzQ)

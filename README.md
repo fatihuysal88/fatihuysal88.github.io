@@ -24,3 +24,4 @@ Publications in SCI Indexed Journals
 * **Facebook** - [88fatihuysal](https://www.facebook.com/88fatihuysal/)
 * **Spotify** - [fatihuysal](https://open.spotify.com/user/vxk0mmiuxkkcihqwsfjao42hr?si=4wuT1HvlRK2VK2ZBud3TzQ)
 * **Academia** - [FatihUYSAL](https://gazi.academia.edu/FatihUYSAL)
+* **ResearchGate** - [Fatih-Uysal-3](https://www.researchgate.net/profile/Fatih-Uysal-3)

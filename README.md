@@ -5,7 +5,7 @@ Publications in SCI Indexed Journals
   
 1.[Published: 18 March 2021, Uysal, F.; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. Classification of Shoulder X-ray Images with Deep Learning Ensemble Models. Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2](https://www.mdpi.com/2076-3417/11/6/2723)  
   
-2.Paper on object detection in biomedical images is being prepared for IEEE Access.
+2.Paper on object detection in biomedical images is being prepared for IEEE Access. Preprint will be uploaded to ArXiv in July 2021.
 # Note
 I do not have Facebook, Instagram, YouTube and LinkedIn accounts.
 # Contact

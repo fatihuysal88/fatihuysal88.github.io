@@ -8,7 +8,7 @@ Fatih Uysal was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
   
 3.Paper on classification in biomedical images is being prepared for IEEE Transactions on Biomedical Engineering. Preprint will be uploaded to ArXiv in December 2021.  
   
-4.Paper on data fusion for multi-source biomedical images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022.  
+4.Paper on data fusion for multi-source biomedical images is being prepared for IEEE Transactions on Neural Networks and Learning Systems. Preprint will be uploaded to ArXiv in 2022.  
   
 5.Paper on object detection in underwater images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
   

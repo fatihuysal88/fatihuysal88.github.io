@@ -2,19 +2,7 @@
 Fatih Uysal was born in İskenderun, Hatay, Republic of Turkey, in 1988. He received the B.S. degree in electrical and electronics engineering from Kırıkkale University, Kırıkkale, Republic of Turkey, in 2010 and the M.S. degree in electrical and electronics engineering from Gazi University, Ankara, Republic of Turkey, in 2017. He is currently pursuing the Ph.D. degree in electrical and electronics engineering at Gazi University. From 2012 to 2014, he was a Research Assistant with Kafkas University, Kars, Republic of Turkey. He has been a Research Assistant at Gazi University since 2014. His research interest includes biomedical image classification, deep learning, object detection.  
   
 # Publications in SCI Indexed Journals
-1.[Published: 18 March 2021, Uysal, F.; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. Classification of Shoulder X-ray Images with Deep Learning Ensemble Models. Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2](https://www.mdpi.com/2076-3417/11/6/2723)  
-  
-2.Paper on object detection in biomedical images is being prepared for IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on “Emerging Challenges for Deep Learning”. Preprint will be uploaded to ArXiv in July 2021.  
-  
-3.Paper on classification in biomedical images is being prepared for IEEE Transactions on Biomedical Engineering. Preprint will be uploaded to ArXiv in December 2021.  
-  
-4.Paper on data fusion for multi-source biomedical images is being prepared for IEEE Transactions on Neural Networks and Learning Systems. Preprint will be uploaded to ArXiv in 2022.  
-  
-5.Paper on object detection in underwater images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
-  
-6.Paper on classification in food images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
-  
-7.Paper on novel data augmentation technique in image processing is being prepared for IEEE Transactions on Image Processing. Preprint will be uploaded to ArXiv in 2022/2023.
+1.[Published: 18 March 2021, Uysal, F.; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. Classification of Shoulder X-ray Images with Deep Learning Ensemble Models. Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2](https://www.mdpi.com/2076-3417/11/6/2723)
 # Note
 I do not have Facebook, Instagram, YouTube and LinkedIn accounts.
 # Contact

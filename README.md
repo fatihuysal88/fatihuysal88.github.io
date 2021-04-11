@@ -13,6 +13,8 @@ Fatih Uysal was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
 5.Paper on object detection in underwater images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
   
 6.Paper on classification in food images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
+  
+7.Paper on novel data augmentation technique in image processing is being prepared for IEEE Transactions on Image Processing. Preprint will be uploaded to ArXiv in 2022/2023.
 # Note
 I do not have Facebook, Instagram, YouTube and LinkedIn accounts.
 # Contact

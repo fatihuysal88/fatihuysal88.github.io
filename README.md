@@ -21,6 +21,15 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
 
 **Note**: If these planned preprints (number 3-7) interest you and would like to collaborate, please contact me.
 
+## Planned Projects
+1.Project on classification in biomedical images is being prepared for Tübitak 1002. It will be uploaded to Tübitak in 2023.  
+
+2.Project on object detection in biomedical images is being prepared for Tübitak 1002. It will be uploaded to Tübitak in 2023/2024.  
+
+3.Project on segmentation, classification, and object detection via mobile application in biomedical images is being prepared for Tübitak 1001. It will be uploaded to Tübitak in 2024/2025.  
+
+**Note**: If these planned projects (number 1-3) interest you and would like to collaborate, please contact me.
+
 ## My Paper Presentations
 It will be added soon.  
 

@@ -6,7 +6,7 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
   
 ## Publications
 ## 2021
-* [18 March 2021, Uysal, F.; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. Classification of Shoulder X-ray Images with Deep Learning Ensemble Models. Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2, EF: 0.02035, AI: 0.351](https://www.mdpi.com/2076-3417/11/6/2723)  
+* [18 March 2021, **Uysal, F.**; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. Classification of Shoulder X-ray Images with Deep Learning Ensemble Models. Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2, EF: 0.02035, AI: 0.351](https://www.mdpi.com/2076-3417/11/6/2723)  
 
 ## 2020
 * [16 July 2020, **Uysal, F.**; Güven, M.; Paç, M. Past, Present and Future of Artificial Intelligence. Turkiye Klinikleri Radiology - Special Topics. 2020. p.6-10.](https://www.turkiyeklinikleri.com/article/en-yapay-zeknin-dunu-bugunu-ve-gelecegi-88869.html)  

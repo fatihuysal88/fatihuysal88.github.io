@@ -21,12 +21,12 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
 * [20-22 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images. International Conference on Artificial Intelligence and Applied Mathematics in Engineering (ICAIAME 2019). Manavgat, Antalya, Republic of Turkey.](http://icaiame.com/wp-content/uploads/2020/01/ICAIAME2019Programme.pdf)
 
 ## 2018
-* 14-16 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. A Review of Segmentation of Magnetic Resonance Prostate Images with Deep Learning. International Congress on Engineering and Architecture. Alanya, Antalya, Republic of Turkey.  
+* [14-16 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. A Review of Segmentation of Magnetic Resonance Prostate Images with Deep Learning. International Congress on Engineering and Architecture. Alanya, Antalya, Republic of Turkey.](https://avesis.gazi.edu.tr/yayin/fa255ad1-6ced-4af2-8273-f95f14d371f5/derin-ogrenmeyle-manyetik-rezonans-prostat-imgelerinin-bolutlenmesi-hakkinda-bir-inceleme)  
 
 * [8-10 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. Classification of T1 and T2 weighted magnetic resonance prostate images using convolutional neural networks. IEEE. 2018 Medical Technologies National Congress (TIPTEKNO). Gazi Magosa, Turkish Republic of Northern Cyprus.](https://ieeexplore.ieee.org/document/8596792)
 
 ## 2016
-* 26-28 October 2016, Turgut, S.; **Uysal, F.**; Hardalaç, F. Forming a voice database updated in Turkish text to speech synthesis using concatenative synthesizer. 1st International Mediterranean Science and Engineering Congress (IMSEC 2016). Adana, Republic of Turkey.
+* [26-28 October 2016, Turgut, S.; **Uysal, F.**; Hardalaç, F. Forming a voice database updated in Turkish text to speech synthesis using concatenative synthesizer. 1st International Mediterranean Science and Engineering Congress (IMSEC 2016). Adana, Republic of Turkey.](https://avesis.gazi.edu.tr/yayin/f376512c-deac-4441-be40-230c30aac2cc/forming-a-voice-database-updated-in-turkish-text-to-speech-synthesis-using-concatenative-synthesizer)
 
 ## Planned Publications
 ## 2021

@@ -16,9 +16,9 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
 * [3 January 2020, **Uysal, F.**; Hardalaç, F.; Koç, M. A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images. Springer. Lecture Notes on Data Engineering and Communications Technologies.](https://link.springer.com/chapter/10.1007/978-3-030-36178-5_59)
 
 ## 2019
-* 24-26 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Classification Model Based on Deep Learning Using Convolutional Neural Networks for T1 and T2 Weighted Magnetic Resonance Prostate Images. Signal Processing and Communications Applications Conference (SIU 2019). Sivas, Republic of Turkey.  
+* [24-26 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Classification Model Based on Deep Learning Using Convolutional Neural Networks for T1 and T2 Weighted Magnetic Resonance Prostate Images. Signal Processing and Communications Applications Conference (SIU 2019). Sivas, Republic of Turkey.](https://siu2019.gtu.edu.tr/wp-content/uploads/2019/06/Kurultay_Program_Sunulan.pdf)  
 
-* 20-22 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images. International Conference on Artificial Intelligence and Applied Mathematics in Engineering (ICAIAME 2019). Manavgat, Antalya, Republic of Turkey.
+* [20-22 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images. International Conference on Artificial Intelligence and Applied Mathematics in Engineering (ICAIAME 2019). Manavgat, Antalya, Republic of Turkey.](http://icaiame.com/wp-content/uploads/2020/01/ICAIAME2019Programme.pdf)
 
 ## 2018
 * 14-16 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. A Review of Segmentation of Magnetic Resonance Prostate Images with Deep Learning. International Congress on Engineering and Architecture. Alanya, Antalya, Republic of Turkey.  

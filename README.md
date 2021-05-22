@@ -6,27 +6,27 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
   
 ## Publications
 ## 2021
-* [18 March 2021, **Uysal, F.**; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. Classification of Shoulder X-ray Images with Deep Learning Ensemble Models. Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2, EF: 0.02035, AI: 0.351](https://www.mdpi.com/2076-3417/11/6/2723)  
+* 18 March 2021, **Uysal, F.**; Hardalaç, F.; Peker, O.; Tolunay, T.; Tokgöz, N. [Classification of Shoulder X-ray Images with Deep Learning Ensemble Models.](https://www.mdpi.com/2076-3417/11/6/2723) Appl. Sci. 2021, 11, 2723. https://doi.org/10.3390/app11062723. IF 2019: 2.474, Index: SCIE, JCR: Q2, EF: 0.02035, AI: 0.351  
 
 ## 2020
-* [16 July 2020, **Uysal, F.**; Güven, M.; Paç, M. Past, Present and Future of Artificial Intelligence. Turkiye Klinikleri Radiology - Special Topics. 2020. p.6-10.](https://www.turkiyeklinikleri.com/article/en-yapay-zeknin-dunu-bugunu-ve-gelecegi-88869.html)  
+* 16 July 2020, **Uysal, F.**; Güven, M.; Paç, M. [Past, Present and Future of Artificial Intelligence.](https://www.turkiyeklinikleri.com/article/en-yapay-zeknin-dunu-bugunu-ve-gelecegi-88869.html) Turkiye Klinikleri Radiology - Special Topics. 2020. p.6-10.  
 
-* [16 July 2020, **Uysal, F.**; Koç, M.; Kutbay, U. Artificial Intelligence Applications in Prostate Cancer. Turkiye Klinikleri Radiology - Special Topics. 2020. p.33-7.](https://www.turkiyeklinikleri.com/article/en-prostat-kanserinde-yapay-zek-uygulamalari-88874.html)  
+* 16 July 2020, **Uysal, F.**; Koç, M.; Kutbay, U. [Artificial Intelligence Applications in Prostate Cancer.](https://www.turkiyeklinikleri.com/article/en-prostat-kanserinde-yapay-zek-uygulamalari-88874.html) Turkiye Klinikleri Radiology - Special Topics. 2020. p.33-7.  
 
-* [3 January 2020, **Uysal, F.**; Hardalaç, F.; Koç, M. A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images. Springer. Lecture Notes on Data Engineering and Communications Technologies.](https://link.springer.com/chapter/10.1007/978-3-030-36178-5_59)
+* 3 January 2020, **Uysal, F.**; Hardalaç, F.; Koç, M. [A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images.](https://link.springer.com/chapter/10.1007/978-3-030-36178-5_59) Springer. Lecture Notes on Data Engineering and Communications Technologies.
 
 ## 2019
-* [24-26 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Classification Model Based on Deep Learning Using Convolutional Neural Networks for T1 and T2 Weighted Magnetic Resonance Prostate Images. Signal Processing and Communications Applications Conference (SIU 2019). Sivas, Republic of Turkey.](https://siu2019.gtu.edu.tr/wp-content/uploads/2019/06/Kurultay_Program_Sunulan.pdf)  
+* 24-26 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. [A Classification Model Based on Deep Learning Using Convolutional Neural Networks for T1 and T2 Weighted Magnetic Resonance Prostate Images.](https://siu2019.gtu.edu.tr/wp-content/uploads/2019/06/Kurultay_Program_Sunulan.pdf) Signal Processing and Communications Applications Conference (SIU 2019). Sivas, Republic of Turkey.  
 
-* [20-22 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images. International Conference on Artificial Intelligence and Applied Mathematics in Engineering (ICAIAME 2019). Manavgat, Antalya, Republic of Turkey.](http://icaiame.com/wp-content/uploads/2020/01/ICAIAME2019Programme.pdf)
+* 20-22 April 2019, **Uysal, F.**; Hardalaç, F.; Koç, M. [A Deep Learning Model based on Convolutional Neural Networks for Classification of Magnetic Resonance Prostate Images.](http://icaiame.com/wp-content/uploads/2020/01/ICAIAME2019Programme.pdf) International Conference on Artificial Intelligence and Applied Mathematics in Engineering (ICAIAME 2019). Manavgat, Antalya, Republic of Turkey.
 
 ## 2018
-* [14-16 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. A Review of Segmentation of Magnetic Resonance Prostate Images with Deep Learning. International Congress on Engineering and Architecture. Alanya, Antalya, Republic of Turkey.](https://avesis.gazi.edu.tr/yayin/fa255ad1-6ced-4af2-8273-f95f14d371f5/derin-ogrenmeyle-manyetik-rezonans-prostat-imgelerinin-bolutlenmesi-hakkinda-bir-inceleme)  
+* 14-16 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. [Derin Öğrenmeyle Manyetik Rezonans Prostat İmgelerinin Bölütlenmesi Hakkında Bir İnceleme.](https://avesis.gazi.edu.tr/yayin/fa255ad1-6ced-4af2-8273-f95f14d371f5/derin-ogrenmeyle-manyetik-rezonans-prostat-imgelerinin-bolutlenmesi-hakkinda-bir-inceleme) International Congress on Engineering and Architecture. Alanya, Antalya, Republic of Turkey.  
 
-* [8-10 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. Classification of T1 and T2 weighted magnetic resonance prostate images using convolutional neural networks. IEEE. 2018 Medical Technologies National Congress (TIPTEKNO). Gazi Magosa, Turkish Republic of Northern Cyprus.](https://ieeexplore.ieee.org/document/8596792)
+* 8-10 November 2018, **Uysal, F.**; Hardalaç, F.; Koç, M. [Classification of T1 and T2 weighted magnetic resonance prostate images using convolutional neural networks.](https://ieeexplore.ieee.org/document/8596792) IEEE. 2018 Medical Technologies National Congress (TIPTEKNO). Gazi Magosa, Turkish Republic of Northern Cyprus.
 
 ## 2016
-* [26-28 October 2016, Turgut, S.; **Uysal, F.**; Hardalaç, F. Forming a voice database updated in Turkish text to speech synthesis using concatenative synthesizer. 1st International Mediterranean Science and Engineering Congress (IMSEC 2016). Adana, Republic of Turkey.](https://avesis.gazi.edu.tr/yayin/f376512c-deac-4441-be40-230c30aac2cc/forming-a-voice-database-updated-in-turkish-text-to-speech-synthesis-using-concatenative-synthesizer)
+* 26-28 October 2016, Turgut, S.; **Uysal, F.**; Hardalaç, F. [Forming a voice database updated in Turkish text to speech synthesis using concatenative synthesizer.](https://avesis.gazi.edu.tr/yayin/f376512c-deac-4441-be40-230c30aac2cc/forming-a-voice-database-updated-in-turkish-text-to-speech-synthesis-using-concatenative-synthesizer) 1st International Mediterranean Science and Engineering Congress (IMSEC 2016). Adana, Republic of Turkey.]
 
 ## Planned Publications
 ## 2021

@@ -31,6 +31,15 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
 ## Planned Publications
 ## 2021
 * Paper on object detection in biomedical images is being prepared for Diagnostics. Preprint will be uploaded to ArXiv in 2021.  
+  
+* Paper related to deep learning is being prepared for IEEE Conference. Preprint will be uploaded to ArXiv in 2021.  
+  
+* Paper related to artificial intelligence is being prepared for TR Indexed Journal. Preprint will be uploaded to ArXiv in 2021.  
+
+## 2022
+* Paper related to computer vision is being prepared for Scopus Indexed Journal. Preprint will be uploaded to ArXiv in 2022.  
+  
+* Paper related to machine learning is being prepared for IEEE Conference. Preprint will be uploaded to ArXiv in 2022.  
 
 ## 2023
 * Paper on classification in biomedical images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  

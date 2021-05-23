@@ -29,42 +29,17 @@ Fatih UYSAL was born in İskenderun, Hatay, Republic of Turkey, in 1988. He rece
 * 26-28 October 2016, Turgut, S.; **Uysal, F.**; Hardalaç, F. [Forming a voice database updated in Turkish text to speech synthesis using concatenative synthesizer.](https://avesis.gazi.edu.tr/yayin/f376512c-deac-4441-be40-230c30aac2cc/forming-a-voice-database-updated-in-turkish-text-to-speech-synthesis-using-concatenative-synthesizer) 1st International Mediterranean Science and Engineering Congress (IMSEC 2016). Adana, Republic of Turkey.]
 
 ## Planned Publications
-## 2021
-* Paper on object detection in biomedical images is being prepared for Diagnostics. Preprint will be uploaded to ArXiv in 2021.  
+* It will be added soon.  
   
-* Paper related to deep learning is being prepared for IEEE Conference. Preprint will be uploaded to ArXiv in 2021.  
-  
-* Paper related to artificial intelligence is being prepared for TR Indexed Journal. Preprint will be uploaded to ArXiv in 2021.  
-
-## 2022
-* Paper related to computer vision is being prepared for Scopus Indexed Journal. Preprint will be uploaded to ArXiv in 2022.  
-  
-* Paper related to machine learning is being prepared for IEEE Conference. Preprint will be uploaded to ArXiv in 2022.  
-
-## 2023
-* Paper on classification in biomedical images is being prepared for SCI Indexed Q1 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
-  
-* Paper on segmentation in biomedical images is being prepared for SCI Indexed Q2 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
-  
-* Paper on object detection in underwater images is being prepared for SCI Indexed Q3 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
-  
-* Paper on classification in food images is being prepared for SCI Indexed Q4 Journal. Preprint will be uploaded to ArXiv in 2022/2023.  
-  
-**Note**: If these planned preprints (in 2022 and beyond) interest you and would like to collaborate, please contact me.
+**Note**: If my planned preprints interest you and would like to collaborate, please contact me.
 
 ## Projects
-It will be added soon.  
+* It will be added soon.  
 
 ## Planned Projects
-## 2023
-* Project on classification in biomedical images is being prepared for Tübitak 1002. It will be uploaded to Tübitak in 2023.  
+* It will be added soon.   
 
-* Project on object detection in biomedical images is being prepared for Tübitak 1002. It will be uploaded to Tübitak in 2023/2024.  
-
-## 2025
-* Project on segmentation, classification, and object detection via mobile application in biomedical images is being prepared for Tübitak 1001. It will be uploaded to Tübitak in 2024/2025.  
-
-**Note**: If these planned projects interest you and would like to collaborate, please contact me.
+**Note**: If my planned projects interest you and would like to collaborate, please contact me.
 
 ## My Paper Presentations
 It will be added soon.  
